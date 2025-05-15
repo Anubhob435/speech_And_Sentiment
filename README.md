@@ -30,3 +30,6 @@ This project demonstrates various Natural Language Processing (NLP) techniques u
 
 ## Usage
 The project is organized in a Jupyter notebook that guides you through each step of the NLP pipeline with detailed explanations and visualizations.
+
+## Contribution
+open to all contributions 🤗
