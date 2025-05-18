@@ -1,4 +1,4 @@
-i# Speech and Sentiment Analysis Project
+## Speech and Sentiment Analysis Project
 
 ## Overview
 This project demonstrates various Natural Language Processing (NLP) techniques using Python libraries like NLTK, SpaCy, and Transformers. It includes functionalities for speech-to-text conversion, text preprocessing, exploratory text analysis, sentiment analysis, topic modeling, and text classification.
